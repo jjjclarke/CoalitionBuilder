@@ -1,0 +1,6 @@
+Party,Leader,Seats
+Australian Labor Party,Daniel Andrews,56
+Liberal Party,Matthew Guy,18
+The Nationals,Peter Walsh,9
+Australian Greens,Samantha Ratnam,4
+Independents,Various,0

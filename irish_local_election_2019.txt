@@ -1,0 +1,10 @@
+Party,Leader,Seats
+Fianna Fáil,Micheál Martin,279
+Fine Gael,Leo Varadkar,255
+Green Party,Eamon Ryan,49
+Sinn Féin,Mary Lou McDonald,81
+Labour Party,Brendan Howlin,57
+Independent,Various,224
+Social Democrats,Catherine Murphy & Róisín Shortall,19
+Solidarity–PBP,Collective Leadership,11
+Others,N/A,18

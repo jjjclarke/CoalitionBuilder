@@ -1,0 +1,6 @@
+Party,Leader,Seats
+Liberal,Justin Trudeau,184
+Conservative,Stephen Harper,99
+New Democratic,Thomas Mulcair,44
+Bloc Québécois,Gilles Duceppe,10
+Green,Elizabeth May,1
